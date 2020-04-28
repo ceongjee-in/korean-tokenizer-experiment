@@ -1,0 +1,5 @@
+ipython
+konlpy
+sentencepiece
+tensorflow
+tqdm
